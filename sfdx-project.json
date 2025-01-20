@@ -1,0 +1,25 @@
+{
+  "packageDirectories": [
+    {
+      "path": "force-app",
+      "package": "rallyintegration",
+      "versionName": "Version 0.4",
+      "versionNumber": "0.4.0.NEXT",
+      "default": true,
+      "definitionFile": "config/project-scratch-def.json",
+      "dependencies": [
+        {
+          "package": "Copado Deployer@20.2.0.0"
+        }
+      ]
+    }
+  ],
+  "namespace": "",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "58.0",
+  "packageAliases": {
+    "Copado Deployer@20.2.0.0": "04t5p0000013nyP",
+    "rallyintegration": "0HoP700000000jBKAQ",
+    "rallyintegration@0.4.0-1-main": "04tP70000016o6PIAQ"
+  }
+}
